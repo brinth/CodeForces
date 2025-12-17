@@ -1,0 +1,30 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/common/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Bits_Plus_Plus/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Next_Round/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Domino_Piling/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Petya_And_Strings/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Boy_Or_Girl/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Helpful_Maths/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Word_Capitalization/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Bear_And_Big_Brother/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Elephant/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Stones_On_The_Table/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Soldier_And_Bananas/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Word/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Wrong_Subtraction/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Nearly_Lucky_Number/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Anton_And_Danik/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Translation/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Vanya_And_Fence/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Tram/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Beautiful_Year/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/In_Search_Of_An_Easy_Problem/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/Queue_At_The_School/cmake_install.cmake",
+		"/Users/brinthkhanna/Projects/Brinth/Personal/CodeForces/Daily/build/George_And_Accomodation/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

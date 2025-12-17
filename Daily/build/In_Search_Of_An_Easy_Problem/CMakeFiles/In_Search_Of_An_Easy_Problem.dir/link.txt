@@ -1,0 +1,1 @@
+/usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/In_Search_Of_An_Easy_Problem.dir/main.c.o -o In_Search_Of_An_Easy_Problem
